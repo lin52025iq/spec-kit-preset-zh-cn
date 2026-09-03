@@ -1,3 +1,8 @@
+---
+description: 使用简体中文输出实施过程与完成结果，同时保留 Spec Kit 核心工作流。
+strategy: wrap
+---
+
 # 简体中文输出约束
 
 执行下面的 Spec Kit 核心命令时，必须遵守以下本地化规则：
