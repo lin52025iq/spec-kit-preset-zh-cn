@@ -20,10 +20,10 @@ Preset 应在已经通过 `specify init` 初始化的 Spec Kit 项目中安装�
 
 ### 安装稳定版本
 
-发布 `v0.2.0` 后，使用固定版本归档安装：
+使用 `v0.0.3` 固定版本归档安装：
 
 ```bash
-specify preset add --from https://github.com/lin52025iq/spec-kit-preset-zh-cn/archive/refs/tags/v0.2.0.zip
+specify preset add --from https://github.com/lin52025iq/spec-kit-preset-zh-cn/archive/refs/tags/v0.0.3.zip
 ```
 
 固定 tag 的安装方式可以保证同一版本对应不可变的源码快照，也是提交 Spec Kit Community Presets catalog 时使用的下载地址。
@@ -138,7 +138,7 @@ specs/<feature>/checklists/*.md
 
 ## 版本与更新
 
-当前版本：`0.2.0`
+当前版本：`0.0.3`
 
 版本发布遵循语义化版本号。发布新版本时：
 
