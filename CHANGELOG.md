@@ -13,7 +13,7 @@ The project follows Semantic Versioning.
 - Preserve machine-readable identifiers, code symbols, file paths, HTTP methods, API routes, and other technical contracts.
 - Require Spec Kit CLI `>=1.0.5.dev0`.
 
-## 0.2.0
+## 0.0.2
 
 - Localize the five core Spec Kit templates to Simplified Chinese.
 - Add Simplified Chinese wrappers for `speckit.specify`, `speckit.clarify`, `speckit.plan`, `speckit.tasks`, `speckit.checklist`, `speckit.analyze`, `speckit.constitution`, `speckit.implement`, and `speckit.converge`.
